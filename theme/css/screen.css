@@ -48,6 +48,7 @@ div.slide {
 div.slide img {
     display: block;
     margin: 0 auto;
+    max-width: 100%;
 }
 
 div.slide.image {
@@ -60,6 +61,7 @@ div.slide.image p, div.slide.image section {
 }
 
 div.slide.image img {
+    max-width: 100%;
     width: 100%;
     height: 100%;
 }
