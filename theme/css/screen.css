@@ -51,6 +51,10 @@ div.slide img {
     max-width: 100%;
 }
 
+div.slide span.lineno {
+    display: none;
+}
+
 div.slide.image {
     background: transparent;
 }
@@ -158,6 +162,7 @@ a {
 pre {
   font-size: 16px;
   font-family: Monaco, Courier, monospace;
+  padding-left: 10px;
 }
 
 li {
