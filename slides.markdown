@@ -203,7 +203,9 @@ A file containing Python code (a module) gets its own namespace.
 
 ---
 
-# MVC
+.fx: image
+
+![MCV](images/mvc.png)
 
 ---
 
