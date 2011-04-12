@@ -442,6 +442,7 @@ Read up on:
 
 * pip
 * virtualenv
+* bpython
 * gunicorn
 
 ---
