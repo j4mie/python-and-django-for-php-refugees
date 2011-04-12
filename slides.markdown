@@ -1,6 +1,3 @@
-# Python & Django<br />for PHP Refugees
-
----
 
 # Python & Django for PHP Refugees
 ## Jamie Matthews
