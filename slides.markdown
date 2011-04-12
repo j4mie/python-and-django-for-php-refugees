@@ -303,6 +303,11 @@ templates/mytemplate.html:
     {% endfor %}
     </ul>
 
+Can add power through **tags** and **filters**. Many built in, can define your own.
+
+    !html+django
+    {{ value|date:"D d M Y" }}
+
 ---
 
 # Models
