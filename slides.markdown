@@ -353,8 +353,11 @@ This is impossible in PHP (please prove me wrong!)
     from models import Note
 
     first_note = Note.objects.get(pk=1)
+
     all_notes = Note.objects.all()
+
     notes_by_jamie = Note.objects.filter(author_name='Jamie')
+
     first_note_by_jamie = notes_by_jamie[0]
 
     new_note = Note()
