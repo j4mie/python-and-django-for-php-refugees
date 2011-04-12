@@ -314,7 +314,7 @@ Many PHP frameworks provide an **object-relational mapper**. So does Django.
 * Django considers your *code* to be the canonical representation of the structure of your data.
 * Fields can map directly onto database types (`CharField` or `IntegerField`) or be rich objects with custom validation rules (`URLField`, `ImageField`).
 * Fields can represent relationships: `ForeignKey`, `ManyToManyField`, `OneToOneField`.
-* It *generates* the necessary `create table` statements to set up your database schema.
+* Django *generates* the necessary `create table` statements to set up your database schema.
 * As far as I know, no PHP frameworks will do this. I wish they would.
 
 Supports MySQL, PostgreSQL, SQLite and Oracle out of the box. Third-party backends available (Sybase, IBM DB2, Microsoft SQL Server, Firebird, ODBC...)
