@@ -73,7 +73,7 @@
     for item in items:
         print item
 
-* WTF? No semicolons?
+* WTF? No semicolons? No curly braces?
 * OMG! Significant whitespace!
 
 ---
